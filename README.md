@@ -8,4 +8,4 @@ O projeto tem como objetivo replicar o funcionamento do Akinator utilizando a li
 C
 
 # Status do Projeto
-Concluido :heavy_check_mark:(2018)
+Concluido :heavy_check_mark: em 2018
